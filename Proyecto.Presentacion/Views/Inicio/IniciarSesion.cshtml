@@ -1,0 +1,177 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Iniciar Sesion</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f0f2f5;
+            font-family: 'Roboto', sans-serif;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 20px;
+            opacity: 0;
+            transform: translateY(50px);
+            transition: opacity 0.6s ease, transform 0.6s ease;
+        }
+
+        .card-header {
+            background-color: #6f42c1;
+            color: white;
+            font-weight: bold;
+            border-radius: 20px 20px 0 0;
+            text-align: center;
+        }
+
+        .btn-primary {
+            background-color: #6f42c1;
+            border: none;
+            border-radius: 30px;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+            .btn-primary:hover {
+                background-color: #5930a3;
+                transform: scale(1.05);
+            }
+
+        .form-control {
+            border-radius: 30px;
+            transition: box-shadow 0.3s ease;
+        }
+
+            .form-control:focus {
+                box-shadow: 0 0 10px rgba(111, 66, 193, 0.5);
+            }
+
+        .container {
+            margin-top: 50px;
+        }
+
+        .alert {
+            margin-top: 10px;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.6s ease, transform 0.6s ease;
+        }
+
+        a {
+            color: #6f42c1;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+            a:hover {
+                text-decoration: underline;
+                color: #5930a3;
+            }
+
+        .circle {
+            position: absolute;
+            border-radius: 50%;
+            background: rgba(111, 66, 193, 0.3);
+            z-index: -1;
+            transition: transform 0.6s ease;
+        }
+
+            .circle.large {
+                width: 500px;
+                height: 500px;
+                top: -250px;
+                right: -250px;
+            }
+
+            .circle.small {
+                width: 300px;
+                height: 300px;
+                bottom: -150px;
+                left: -150px;
+            }
+
+        .show {
+            opacity: 1 !important;
+            transform: translateY(0) !important;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="circle large"></div>
+    <div class="circle small"></div>
+
+    <div class="container mt-5 pt-5">
+        <div class="row justify-content-center">
+            <div class="col-12 col-xl-4 col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        Iniciar Sesion
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Inicio" asp-action="IniciarSesion" method="post">
+                            <input class="form-control mb-3" type="text" placeholder="Email" required name="email" />
+                            <input class="form-control mb-3" type="password" placeholder="Contraseña" required name="contraseña" />
+                            <div class="d-grid gap-2 mb-3">
+                                <button class="btn btn-primary" type="submit">Iniciar Sesion</button>
+                            </div>
+                            @if (ViewData["Mensaje"] != null)
+                            {
+                                <div class="form-group">
+                                    <div class="alert alert-danger" role="alert">
+                                        @ViewData["Mensaje"]
+                                    </div>
+                                </div>
+                            }
+                            ¿No tienes una cuenta? <a href="@Url.Action("Registrarse", "Inicio")">¡Registrate!</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Show card with transition
+            $('.card').addClass('show');
+
+            // Show alert if it exists
+            if ($('.alert').length) {
+                $('.alert').addClass('show');
+            }
+
+            // Add hover effect on card
+            $('.card').hover(
+                function () {
+                    $(this).css('transform', 'scale(1.02)');
+                },
+                function () {
+                    $(this).css('transform', 'scale(1)');
+                }
+            );
+
+            // Add hover effect on circles
+            $('.circle').hover(
+                function () {
+                    $(this).css('transform', 'scale(1.1)');
+                },
+                function () {
+                    $(this).css('transform', 'scale(1)');
+                }
+            );
+        });
+    </script>
+</body>
+</html>
