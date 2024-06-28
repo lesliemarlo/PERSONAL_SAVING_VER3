@@ -32,7 +32,7 @@ public partial class BdPersonalSavingContext : DbContext
         {
             entity.HasKey(e => e.id_usuario).HasName("PK__TB_USUAR__4E3E04AD3CDD1533");
 
-            entity.ToTable("TB_USUARIO1");
+            entity.ToTable("TB_USUARIO");
 
             entity.HasIndex(e => e.email, "UQ__TB_USUAR__AB6E6164CFC27A81").IsUnique();
 

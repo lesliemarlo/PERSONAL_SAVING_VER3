@@ -1,42 +1,166 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\",
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\egreso\\nuevoegreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\nuevoegreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\repositorio\\dao\\egresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\egresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\models\\egresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\egresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\controllers\\egresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\egresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\models\\bdpersonalsavingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\models\\egresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\egresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\models\\egresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\egresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\models\\ingresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\ingresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\models\\ingresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\ingresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\repositorio\\interfaces\\iegresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iegresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\models\\bdpersonalsavingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\bdpersonalsavingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\servicios\\implementacion\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\recursos\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_actual\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\iniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\egreso\\listadoegresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\listadoegresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\ingreso\\nuevoingreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\nuevoingreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\egreso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\egreso\\modificaregreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\modificaregreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\ingreso\\modificaringreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\modificaringreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\models\\egreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\egreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\controllers\\egresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\egresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\models\\egresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\egresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\models\\ingresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\ingresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\inicio\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\lenovo\\downloads\\ps_cam\\proyecto.presentacion\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\inicio\\iniciarsesion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,76 +182,284 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBUAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "IngresosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAkwIkAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:53:47.47Z",
+              "WhenOpened": "2024-06-28T02:49:32.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Program.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Program.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA0AAAA",
+              "Title": "EgresosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\EgresosDAO.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAwKYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:39:33.616Z",
+              "WhenOpened": "2024-06-28T02:57:47.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Registrarse.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAkwLMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T18:41:23.048Z",
+              "Title": "IngresoController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAowI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:46:26.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EgresoController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\EgresoController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAmwGgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:22:19.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InicioController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\InicioController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwC8AAAAjAAAA",
+              "Title": "EgresosO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Models\\EgresosO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\EgresosO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Models\\EgresosO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\EgresosO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T18:40:47.576Z",
+              "WhenOpened": "2024-06-28T02:56:13.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuevoEgreso.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\NuevoEgreso.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:48:15.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EgresoModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\EgresoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:22:42.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IngresoModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:21:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IngresoModelO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:21:41.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "listadoTransacciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T05:01:58.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EgresoModelO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\EgresoModelO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:22:53.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T05:01:42.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T05:01:40.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "listadoIngresos.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:46:21.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "BdPersonalSavingContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
               "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
               "RelativeToolTip": "Proyecto.Presentacion\\Models\\BdPersonalSavingContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCQAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T18:40:44.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "IEgresos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:55:36.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IIngresos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:55:34.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Recursos\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Recursos\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Recursos\\Utilidades.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Recursos\\Utilidades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:45:31.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:45:37.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Servicios\\Implementacion\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Servicios\\Implementacion\\UsuarioService.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Servicios\\Implementacion\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:45:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InicioController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\InicioController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\InicioController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\InicioController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\InicioController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:40:47.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\Usuario.cs",
               "RelativeToolTip": "Proyecto.Presentacion\\Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,42 +468,235 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\appsettings.json",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\appsettings.json",
-              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-24T18:39:33.193Z",
+              "DocumentIndex": 22,
+              "Title": "listadoEgresos.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\listadoEgresos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\listadoEgresos.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\listadoEgresos.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\listadoEgresos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:46:12.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
               "Title": "_LayoutPrincipal.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
               "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
               "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFsAAABXAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAE4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-24T18:54:41.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 25,
+              "Title": "NuevoIngreso.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:48:19.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T04:00:32.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ModificarEgreso.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\ModificarEgreso.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:50:23.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ModificarIngreso.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAuwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:50:27.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Egreso\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:52:15.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Egreso.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\Egreso.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\Egreso.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Models\\Egreso.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\Egreso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:22:26.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EgresosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\EgresosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:57:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IngresosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:56:58.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Egresos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Models\\Egresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\Egresos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Models\\Egresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\Egresos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:56:46.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IngresosO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Models\\IngresosO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\IngresosO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\Models\\IngresosO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\IngresosO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T02:56:11.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Api_Personal_Saving\\appsettings.json",
+              "RelativeToolTip": "Api_Personal_Saving\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T02:43:23.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:53:47.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Program.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:39:33.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Inicio\\Registrarse.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAkwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T18:41:23.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T18:39:33.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "IniciarSesion.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
               "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
               "RelativeToolTip": "Proyecto.Presentacion\\Views\\Inicio\\IniciarSesion.cshtml",
               "ViewState": "AQIAAGMAAAAAAAAAAAAAAHcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T18:42:08.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T18:42:08.029Z"
             }
           ]
         }

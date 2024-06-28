@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qqKFSXoH92Xk13rUeQnsXccN1jqhMovlsyl370ruWgGo1ZG7RKhqvr4UDBcOtR5UmwI9W1Sx9UKlVgK/vOyJ0w==",
+  "dgSpecHash": "05sJw9poxMnYoPRV12Scp0jVopwAZ+MLJMSOc+LViV78jov9X1i3tptEGwX9LVDeKb5BuaMa5x1oUQCnq4UIDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

@@ -10,7 +10,7 @@ namespace Proyecto.Presentacion.Models
 
         [DisplayName("Código de usuario")]
         [Required(ErrorMessage = "Ingrese el código de usuario")]
-        public int id_usuario { get; set; }
+        public int id_usuario { get; set; } 
 
         [DisplayName("Código de transacción")]
         [Required(ErrorMessage = "Ingrese el código de transacción")]

@@ -11500,11 +11500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
       "projectName": "FRONT_web_personal_saving",
-      "projectPath": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Downloads\\PS_ACTUAL\\Proyecto.Presentacion\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\Downloads\\PS_CAM\\Proyecto.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
